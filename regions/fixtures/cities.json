@@ -1,0 +1,569 @@
+[
+  {
+    "model": "regions.city",
+    "pk": 1,
+    "fields": {
+      "title": "ADANA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 2,
+    "fields": {
+      "title": "ADIYAMAN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 3,
+    "fields": {
+      "title": "AFYONKARAHİSAR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 4,
+    "fields": {
+      "title": "AĞRI"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 5,
+    "fields": {
+      "title": "AMASYA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 6,
+    "fields": {
+      "title": "ANKARA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 7,
+    "fields": {
+      "title": "ANTALYA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 8,
+    "fields": {
+      "title": "ARTVİN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 9,
+    "fields": {
+      "title": "AYDIN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 10,
+    "fields": {
+      "title": "BALIKESİR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 11,
+    "fields": {
+      "title": "BİLECİK"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 12,
+    "fields": {
+      "title": "BİNGÖL"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 13,
+    "fields": {
+      "title": "BİTLİS"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 14,
+    "fields": {
+      "title": "BOLU"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 15,
+    "fields": {
+      "title": "BURDUR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 16,
+    "fields": {
+      "title": "BURSA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 17,
+    "fields": {
+      "title": "ÇANAKKALE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 18,
+    "fields": {
+      "title": "ÇANKIRI"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 19,
+    "fields": {
+      "title": "ÇORUM"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 20,
+    "fields": {
+      "title": "DENİZLİ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 21,
+    "fields": {
+      "title": "DİYARBAKIR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 22,
+    "fields": {
+      "title": "EDİRNE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 23,
+    "fields": {
+      "title": "ELAZIĞ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 24,
+    "fields": {
+      "title": "ERZİNCAN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 25,
+    "fields": {
+      "title": "ERZURUM"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 26,
+    "fields": {
+      "title": "ESKİŞEHİR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 27,
+    "fields": {
+      "title": "GAZİANTEP"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 28,
+    "fields": {
+      "title": "GİRESUN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 29,
+    "fields": {
+      "title": "GÜMÜŞHANE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 30,
+    "fields": {
+      "title": "HAKKARİ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 31,
+    "fields": {
+      "title": "HATAY"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 32,
+    "fields": {
+      "title": "ISPARTA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 33,
+    "fields": {
+      "title": "MERSİN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 34,
+    "fields": {
+      "title": "İSTANBUL"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 35,
+    "fields": {
+      "title": "İZMİR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 36,
+    "fields": {
+      "title": "KARS"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 37,
+    "fields": {
+      "title": "KASTAMONU"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 38,
+    "fields": {
+      "title": "KAYSERİ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 39,
+    "fields": {
+      "title": "KIRKLARELİ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 40,
+    "fields": {
+      "title": "KIRŞEHİR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 41,
+    "fields": {
+      "title": "KOCAELİ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 42,
+    "fields": {
+      "title": "KONYA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 43,
+    "fields": {
+      "title": "KÜTAHYA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 44,
+    "fields": {
+      "title": "MALATYA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 45,
+    "fields": {
+      "title": "MANİSA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 46,
+    "fields": {
+      "title": "KAHRAMANMARAŞ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 47,
+    "fields": {
+      "title": "MARDİN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 48,
+    "fields": {
+      "title": "MUĞLA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 49,
+    "fields": {
+      "title": "MUŞ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 50,
+    "fields": {
+      "title": "NEVŞEHİR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 51,
+    "fields": {
+      "title": "NİĞDE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 52,
+    "fields": {
+      "title": "ORDU"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 53,
+    "fields": {
+      "title": "RİZE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 54,
+    "fields": {
+      "title": "SAKARYA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 55,
+    "fields": {
+      "title": "SAMSUN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 56,
+    "fields": {
+      "title": "SİİRT"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 57,
+    "fields": {
+      "title": "SİNOP"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 58,
+    "fields": {
+      "title": "SİVAS"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 59,
+    "fields": {
+      "title": "TEKİRDAĞ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 60,
+    "fields": {
+      "title": "TOKAT"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 61,
+    "fields": {
+      "title": "TRABZON"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 62,
+    "fields": {
+      "title": "TUNCELİ"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 63,
+    "fields": {
+      "title": "ŞANLIURFA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 64,
+    "fields": {
+      "title": "UŞAK"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 65,
+    "fields": {
+      "title": "VAN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 66,
+    "fields": {
+      "title": "YOZGAT"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 67,
+    "fields": {
+      "title": "ZONGULDAK"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 68,
+    "fields": {
+      "title": "AKSARAY"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 69,
+    "fields": {
+      "title": "BAYBURT"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 70,
+    "fields": {
+      "title": "KARAMAN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 71,
+    "fields": {
+      "title": "KIRIKKALE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 72,
+    "fields": {
+      "title": "BATMAN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 73,
+    "fields": {
+      "title": "ŞIRNAK"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 74,
+    "fields": {
+      "title": "BARTIN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 75,
+    "fields": {
+      "title": "ARDAHAN"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 76,
+    "fields": {
+      "title": "IĞDIR"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 77,
+    "fields": {
+      "title": "YALOVA"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 78,
+    "fields": {
+      "title": "KARABÜK"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 79,
+    "fields": {
+      "title": "KİLİS"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 80,
+    "fields": {
+      "title": "OSMANİYE"
+    }
+  },
+  {
+    "model": "regions.city",
+    "pk": 81,
+    "fields": {
+      "title": "DÜZCE"
+    }
+  }
+]

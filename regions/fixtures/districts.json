@@ -1,0 +1,6421 @@
+[
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALADAĞ",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CEYHAN",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇUKUROVA",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FEKE",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İMAMOĞLU",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAİSALI",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARATAŞ",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOZAN",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "POZANTI",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAİMBEYLİ",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIÇAM",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEYHAN",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUFANBEYLİ",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YUMURTALIK",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YÜREĞİR",
+      "city": 1
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BESNİ",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇELİKHAN",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GERGER",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLBAŞI",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAHTA",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAMSAT",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİNCİK",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUT",
+      "city": 2
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAŞMAKÇI",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYAT",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOLVADİN",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAY",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇOBANLAR",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DAZKIRI",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİNAR",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EMİRDAĞ",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EVCİLER",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HOCALAR",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İHSANİYE",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İSCEHİSAR",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIZILÖREN",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SANDIKLI",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİNANPAŞA",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULTANDAĞI",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞUHUT",
+      "city": 3
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİYADİN",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞUBAYAZIT",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ELEŞKİRT",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAMUR",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PATNOS",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TAŞLIÇAY",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUTA",
+      "city": 4
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖYNÜCEK",
+      "city": 5
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜMÜŞHACIKÖY",
+      "city": 5
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAMAMÖZÜ",
+      "city": 5
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MERZİFON",
+      "city": 5
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULUOVA",
+      "city": 5
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TAŞOVA",
+      "city": 5
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKYURT",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINDAĞ",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYAŞ",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BALA",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYPAZARI",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMLIDERE",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇANKAYA",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇUBUK",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ELMADAĞ",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ETİMESGUT",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EVREN",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLBAŞI",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜDÜL",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAYMANA",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KALECİK",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAZAN",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEÇİÖREN",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIZILCAHAMAM",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MAMAK",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NALLIHAN",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "POLATLI",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PURSAKLAR",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİNCAN",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞEREFLİKOÇHİSAR",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİMAHALLE",
+      "city": 6
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKSEKİ",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKSU",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALANYA",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEMRE",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DÖŞEMEALTI",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ELMALI",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FİNİKE",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GAZİPAŞA",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜNDOĞMUŞ",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İBRADI",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAŞ",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEMER",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEPEZ",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KONYAALTI",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KORKUTELİ",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KUMLUCA",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MANAVGAT",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MURATPAŞA",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SERİK",
+      "city": 7
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARDANUÇ",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARHAVİ",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BORÇKA",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HOPA",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MURGUL",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞAVŞAT",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YUSUFELİ",
+      "city": 8
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZDOĞAN",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BUHARKENT",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİNE",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİDİM",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GERMENCİK",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İNCİRLİOVA",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARACASU",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARPUZLU",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOÇARLI",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖŞK",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KUŞADASI",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KUYUCAK",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NAZİLLİ",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÖKE",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULTANHİSAR",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİPAZAR",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYVALIK",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BALYA",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BANDIRMA",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BİGADİÇ",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BURHANİYE",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DURSUNBEY",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EDREMİT",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERDEK",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖMEÇ",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖNEN",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAVRAN",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İVRİNDİ",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEPSUT",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MANYAS",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MARMARA",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAVAŞTEPE",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SINDIRGI",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SUSURLUK",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZÜYÜK",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLPAZARI",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İNHİSAR",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OSMANELİ",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAZARYERİ",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÖĞÜT",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİPAZAR",
+      "city": 11
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ADAKLI",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GENÇ",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARLIOVA",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KİĞI",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SOLHAN",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAYLADERE",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YEDİSU",
+      "city": 12
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ADİLCEVAZ",
+      "city": 13
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AHLAT",
+      "city": 13
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜROYMAK",
+      "city": 13
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HİZAN",
+      "city": 13
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUTKİ",
+      "city": 13
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TATVAN",
+      "city": 13
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DÖRTDİVAN",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEREDE",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖYNÜK",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIBRISCIK",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MENGEN",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUDURNU",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEBEN",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİÇAĞA",
+      "city": 14
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AĞLASUN",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINYAYLA",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BUCAK",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAVDIR",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇELTİKÇİ",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLHİSAR",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAMANLI",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEMER",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TEFENNİ",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YEŞİLOVA",
+      "city": 15
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BÜYÜKORHAN",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEMLİK",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜRSU",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HARMANCIK",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İNEGÖL",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İZNİK",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARACABEY",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KELES",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KESTEL",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUDANYA",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUSTAFAKEMALPAŞA",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NİLÜFER",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORHANELİ",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORHANGAZİ",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OSMANGAZİ",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİŞEHİR",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YILDIRIM",
+      "city": 16
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYVACIK",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYRAMİÇ",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BİGA",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZCAADA",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAN",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ECEABAT",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EZİNE",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GELİBOLU",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İMROZ",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "LAPSEKİ",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİCE",
+      "city": 17
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ATKARACALAR",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYRAMÖREN",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇERKEŞ",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ELDİVAN",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ILGAZ",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIZILIRMAK",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KORGUN",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KURŞUNLU",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORTA",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞABANÖZÜ",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAPRAKLI",
+      "city": 18
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALACA",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYAT",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOĞAZKALE",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DODURGA",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İSKİLİP",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARGI",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "LAÇİN",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MECİTÖZÜ",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OĞUZLAR",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORTAKÖY",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OSMANCIK",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SUNGURLU",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "UĞURLUDAĞ",
+      "city": 19
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ACIPAYAM",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAMUKKALE",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BABADAĞ",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAKLAN",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEKİLLİ",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYAĞAÇ",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZKURT",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BULDAN",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAL",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMELİ",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇARDAK",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİVRİL",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜNEY",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HONAZ",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KALE",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARAYKÖY",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SERİNHİSAR",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TAVAS",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAĞLAR",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BİSMİL",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇERMİK",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇINAR",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇÜNGÜŞ",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİCLE",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EĞİL",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERGANİ",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HANİ",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAZRO",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAYAPINAR",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOCAKÖY",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KULP",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "LİCE",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİLVAN",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SUR",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİŞEHİR",
+      "city": 21
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ENEZ",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAVSA",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İPSALA",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEŞAN",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "LALAPAŞA",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MERİÇ",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÜLOĞLU",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "UZUNKÖPRÜ",
+      "city": 22
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AĞIN",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALACAKAYA",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARICAK",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BASKİL",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAKOÇAN",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEBAN",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOVANCILAR",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MADEN",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PALU",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİVRİCE",
+      "city": 23
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYIRLI",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İLİÇ",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEMAH",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEMALİYE",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OTLUKBELİ",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "REFAHİYE",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TERCAN",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÜZÜMLÜ",
+      "city": 24
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AŞKALE",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AZİZİYE",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAT",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HINIS",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HORASAN",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İSPİR",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAÇOBAN",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAYAZI",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖPRÜKÖY",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NARMAN",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OLTU",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OLUR",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PALANDÖKEN",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PASİNLER",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAZARYOLU",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞENKAYA",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TEKMAN",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TORTUM",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "UZUNDERE",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAKUTİYE",
+      "city": 25
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALPU",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYLİKOVA",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİFTELER",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜNYÜZÜ",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAN",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İNÖNÜ",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MAHMUDİYE",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MİHALGAZİ",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MİHALIÇÇIK",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ODUNPAZARI",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARICAKAYA",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEYİTGAZİ",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİVRİHİSAR",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TEPEBAŞI",
+      "city": 26
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARABAN",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İSLAHİYE",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARKAMIŞ",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NİZİP",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NURDAĞI",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OĞUZELİ",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞAHİNBEY",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞEHİTKAMİL",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAVUZELİ",
+      "city": 27
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALUCRA",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BULANCAK",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMOLUK",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇANAKÇI",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DERELİ",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞANKENT",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ESPİYE",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EYNESİL",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖRELE",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜCE",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEŞAP",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PİRAZİZ",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞEBİNKARAHİSAR",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TİREBOLU",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAĞLIDERE",
+      "city": 28
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KELKİT",
+      "city": 29
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖSE",
+      "city": 29
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÜRTÜN",
+      "city": 29
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞİRAN",
+      "city": 29
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TORUL",
+      "city": 29
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇUKURCA",
+      "city": 30
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞEMDİNLİ",
+      "city": 30
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YÜKSEKOVA",
+      "city": 30
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINÖZÜ",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BELEN",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DÖRTYOL",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERZİN",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HASSA",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İSKENDERUN",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIRIKHAN",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KUMLU",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "REYHANLI",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAMANDAĞ",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAYLADAĞI",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKSU",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ATABEY",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EĞİRDİR",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GELENDOST",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖNEN",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEÇİBORLU",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SENİRKENT",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÜTÇÜLER",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞARKİKARAAĞAÇ",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULUBORLU",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YALVAÇ",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİŞARBADEMLİ",
+      "city": 32
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKDENİZ",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ANAMUR",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYDINCIK",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZYAZI",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMLIYAYLA",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERDEMLİ",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜLNAR",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MEZİTLİ",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUT",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİLİFKE",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TARSUS",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TOROSLAR",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİŞEHİR",
+      "city": 33
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ADALAR",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARNAVUTKÖY",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ATAŞEHİR",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AVCILAR",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAĞCILAR",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAHÇELİEVLER",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAKIRKÖY",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAŞAKŞEHİR",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYRAMPAŞA",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEŞİKTAŞ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYKOZ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYLİKDÜZÜ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYOĞLU",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BÜYÜKÇEKMECE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇATALCA",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇEKMEKÖY",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ESENLER",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ESENYURT",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EYÜP",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FATİH",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GAZİOSMANPAŞA",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜNGÖREN",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KADIKÖY",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAĞITHANE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARTAL",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÜÇÜKÇEKMECE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MALTEPE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PENDİK",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SANCAKTEPE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIYER",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİLİVRİ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULTANBEYLİ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULTANGAZİ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞİLE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞİŞLİ",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUZLA",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÜMRANİYE",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÜSKÜDAR",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ZEYTİNBURNU",
+      "city": 34
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALİAĞA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BALÇOVA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYINDIR",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYRAKLI",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BERGAMA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYDAĞ",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BORNOVA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BUCA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇEŞME",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİĞLİ",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİKİLİ",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FOÇA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GAZİEMİR",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜZELBAHÇE",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARABAĞLAR",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARABURUN",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARŞIYAKA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KEMALPAŞA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KINIK",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KİRAZ",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KONAK",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MENDERES",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MENEMEN",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NARLIDERE",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÖDEMİŞ",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEFERİHİSAR",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SELÇUK",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TİRE",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TORBALI",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "URLA",
+      "city": 35
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKYAKA",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARPAÇAY",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİGOR",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAĞIZMAN",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIKAMIŞ",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SELİM",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SUSUZ",
+      "city": 36
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ABANA",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AĞLI",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARAÇ",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AZDAVAY",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZKURT",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CİDE",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇATALZEYTİN",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DADAY",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEVREKANİ",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞANYURT",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HANÖNÜ",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İHSANGAZİ",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İNEBOLU",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÜRE",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PINARBAŞI",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEYDİLER",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞENPAZAR",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TAŞKÖPRÜ",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TOSYA",
+      "city": 37
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKKIŞLA",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BÜNYAN",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEVELİ",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FELAHİYE",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HACILAR",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İNCESU",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOCASİNAN",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MELİKGAZİ",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÖZVATAN",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PINARBAŞI",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIOĞLAN",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIZ",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TALAS",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TOMARZA",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAHYALI",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YEŞİLHİSAR",
+      "city": 38
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BABAESKİ",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEMİRKÖY",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOFÇAZ",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "LÜLEBURGAZ",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PEHLİVANKÖY",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PINARHİSAR",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "VİZE",
+      "city": 39
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKÇAKENT",
+      "city": 40
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKPINAR",
+      "city": 40
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZTEPE",
+      "city": 40
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİÇEKDAĞI",
+      "city": 40
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAMAN",
+      "city": 40
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUCUR",
+      "city": 40
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAŞİSKELE",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYIROVA",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DARICA",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DERİNCE",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİLOVASI",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEBZE",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLCÜK",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İZMİT",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KANDIRA",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAMÜRSEL",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARTEPE",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖRFEZ",
+      "city": 41
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AHIRLI",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKÖREN",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKŞEHİR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINEKİN",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYŞEHİR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZKIR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CİHANBEYLİ",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇELTİK",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇUMRA",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DERBENT",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEREBUCAK",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞANHİSAR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EMİRGAZİ",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EREĞLİ",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜNEYSINIR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HADİM",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HALKAPINAR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HÜYÜK",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ILGIN",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KADINHANI",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAPINAR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARATAY",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KULU",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MERAM",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARAYÖNÜ",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SELÇUKLU",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEYDİŞEHİR",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TAŞKENT",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUZLUKÇU",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YALIHÜYÜK",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YUNAK",
+      "city": 42
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINTAŞ",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ASLANAPA",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAVDARHİSAR",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOMANİÇ",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DUMLUPINAR",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EMET",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEDİZ",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HİSARCIK",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAZARLAR",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİMAV",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞAPHANE",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TAVŞANLI",
+      "city": 43
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKÇADAĞ",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARAPGİR",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARGUVAN",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BATTALGAZİ",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DARENDE",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞANŞEHİR",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞANYOL",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HEKİMHAN",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KALE",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KULUNCAK",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PÜTÜRGE",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAZIHAN",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YEŞİLYURT",
+      "city": 44
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AHMETLİ",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKHİSAR",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALAŞEHİR",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEMİRCİ",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLMARMARA",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖRDES",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIRKAĞAÇ",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖPRÜBAŞI",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KULA",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SALİHLİ",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIGÖL",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARUHANLI",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SELENDİ",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SOMA",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TURGUTLU",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AFŞİN",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ANDIRIN",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAĞLAYANCERİT",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EKİNÖZÜ",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ELBİSTAN",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖKSUN",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NURHAK",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAZARCIK",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TÜRKOĞLU",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DARGEÇİT",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DERİK",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KIZILTEPE",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MAZIDAĞI",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MİDYAT",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NUSAYBİN",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÖMERLİ",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAVUR",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YEŞİLLİ",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BODRUM",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DALAMAN",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DATÇA",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FETHİYE",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAVAKLIDERE",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖYCEĞİZ",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MARMARİS",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MİLAS",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORTACA",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULA",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YATAĞAN",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BULANIK",
+      "city": 49
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HASKÖY",
+      "city": 49
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KORKUT",
+      "city": 49
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MALAZGİRT",
+      "city": 49
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "VARTO",
+      "city": 49
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ACIGÖL",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AVANOS",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DERİNKUYU",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜLŞEHİR",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HACIBEKTAŞ",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOZAKLI",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÜRGÜP",
+      "city": 50
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTUNHİSAR",
+      "city": 51
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOR",
+      "city": 51
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMARDI",
+      "city": 51
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİFTLİK",
+      "city": 51
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULUKIŞLA",
+      "city": 51
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKKUŞ",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYBASTI",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMAŞ",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇATALPINAR",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYBAŞI",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FATSA",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLKÖY",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜLYALI",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜRGENTEPE",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İKİZCE",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KABADÜZ",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KABATAŞ",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KORGAN",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KUMRU",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MESUDİYE",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PERŞEMBE",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULUBEY",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÜNYE",
+      "city": 52
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARDEŞEN",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAMLIHEMŞİN",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYELİ",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEREPAZARI",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FINDIKLI",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜNEYSU",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HEMŞİN",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İKİZDERE",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İYİDERE",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KALKANDERE",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAZAR",
+      "city": 53
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ADAPAZARI",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKYAZI",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARİFİYE",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERENLER",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "FERİZLİ",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEYVE",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HENDEK",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAPÜRÇEK",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARASU",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAYNARCA",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOCAALİ",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAMUKOVA",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAPANCA",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SERDİVAN",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÖĞÜTLÜ",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TARAKLI",
+      "city": 54
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ONDOKUZMAYIS",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALAÇAM",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ASARCIK",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ATAKUM",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYVACIK",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAFRA",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CANİK",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇARŞAMBA",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAVZA",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İLKADIM",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAVAK",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "LADİK",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SALIPAZARI",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TEKKEKÖY",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TERME",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "VEZİRKÖPRÜ",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAKAKENT",
+      "city": 55
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYDINLAR",
+      "city": 56
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAYKAN",
+      "city": 56
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERUH",
+      "city": 56
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KURTALAN",
+      "city": 56
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PERVARİ",
+      "city": 56
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞİRVAN",
+      "city": 56
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYANCIK",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOYABAT",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİKMEN",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DURAĞAN",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERFELEK",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GERZE",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARAYDÜZÜ",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TÜRKELİ",
+      "city": 57
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKINCILAR",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINYAYLA",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DİVRİĞİ",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DOĞANŞAR",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEMEREK",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLOVA",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜRÜN",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAFİK",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İMRANLI",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KANGAL",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOYULHİSAR",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SUŞEHRİ",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞARKIŞLA",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULAŞ",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YILDIZELİ",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ZARA",
+      "city": 58
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇERKEZKÖY",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇORLU",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAYRABOLU",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MALKARA",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MARMARAEREĞLİSİ",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MURATLI",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARAY",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞARKÖY",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALMUS",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARTOVA",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAŞÇİFTLİK",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERBAA",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NİKSAR",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAZAR",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "REŞADİYE",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULUSARAY",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TURHAL",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YEŞİLYURT",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ZİLE",
+      "city": 60
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKÇAABAT",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARAKLI",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARSİN",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEŞİKDÜZÜ",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇARŞIBAŞI",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYKARA",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DERNEKPAZARI",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DÜZKÖY",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HAYRAT",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KÖPRÜBAŞI",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MAÇKA",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OF",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÜRMENE",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞALPAZARI",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TONYA",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "VAKFIKEBİR",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YOMRA",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇEMİŞGEZEK",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HOZAT",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MAZGİRT",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "NAZIMİYE",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OVACIK",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PERTEK",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PÜLÜMÜR",
+      "city": 62
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKÇAKALE",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BİRECİK",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOZOVA",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CEYLANPINAR",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HALFETİ",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HARRAN",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HİLVAN",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİVEREK",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SURUÇ",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "VİRANŞEHİR",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BANAZ",
+      "city": 64
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EŞME",
+      "city": 64
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAHALLI",
+      "city": 64
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİVASLI",
+      "city": 64
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULUBEY",
+      "city": 64
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAHÇESARAY",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAŞKALE",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇALDIRAN",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇATAK",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EDREMİT",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERCİŞ",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GEVAŞ",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜRPINAR",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MURADİYE",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÖZALP",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARAY",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKDAĞMADENİ",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYDINCIK",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BOĞAZLIYAN",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇANDIR",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYIRALAN",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇEKEREK",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KADIŞEHRİ",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARAYKENT",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIKAYA",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SORGUN",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞEFAATLİ",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİFAKILI",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YERKÖY",
+      "city": 66
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALAPLI",
+      "city": 67
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇAYCUMA",
+      "city": 67
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEVREK",
+      "city": 67
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EREĞLİ",
+      "city": 67
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖKÇEBEY",
+      "city": 67
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AĞAÇÖREN",
+      "city": 68
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ESKİL",
+      "city": 68
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜLAĞAÇ",
+      "city": 68
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜZELYURT",
+      "city": 68
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORTAKÖY",
+      "city": 68
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIYAHŞİ",
+      "city": 68
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYDINTEPE",
+      "city": 69
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEMİRÖZÜ",
+      "city": 69
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AYRANCI",
+      "city": 70
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAŞYAYLA",
+      "city": 70
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERMENEK",
+      "city": 70
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAZIMKARABEKİR",
+      "city": 70
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SARIVELİLER",
+      "city": 70
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAHŞİLİ",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BALIŞEYH",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇELEBİ",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DELİCE",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAKEÇİLİ",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KESKİN",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SULAKYURT",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YAHŞİHAN",
+      "city": 71
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEŞİRİ",
+      "city": 72
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GERCÜŞ",
+      "city": 72
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HASANKEYF",
+      "city": 72
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KOZLUK",
+      "city": 72
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SASON",
+      "city": 72
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BEYTÜŞŞEBAP",
+      "city": 73
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CİZRE",
+      "city": 73
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜÇLÜKONAK",
+      "city": 73
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İDİL",
+      "city": 73
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SİLOPİ",
+      "city": 73
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULUDERE",
+      "city": 73
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AMASRA",
+      "city": 74
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KURUCAŞİLE",
+      "city": 74
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ULUS",
+      "city": 74
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇILDIR",
+      "city": 75
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DAMAL",
+      "city": 75
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLE",
+      "city": 75
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HANAK",
+      "city": 75
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "POSOF",
+      "city": 75
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARALIK",
+      "city": 76
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAKOYUNLU",
+      "city": 76
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUZLUCA",
+      "city": 76
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTINOVA",
+      "city": 77
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARMUTLU",
+      "city": 77
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇINARCIK",
+      "city": 77
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİFTLİKKÖY",
+      "city": 77
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TERMAL",
+      "city": 77
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EFLANİ",
+      "city": 78
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ESKİPAZAR",
+      "city": 78
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "OVACIK",
+      "city": 78
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SAFRANBOLU",
+      "city": 78
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YENİCE",
+      "city": 78
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ELBEYLİ",
+      "city": 79
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MUSABEYLİ",
+      "city": 79
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "POLATELİ",
+      "city": 79
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "BAHÇE",
+      "city": 80
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DÜZİÇİ",
+      "city": 80
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HASANBEYLİ",
+      "city": 80
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KADİRLİ",
+      "city": 80
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SUMBAS",
+      "city": 80
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TOPRAKKALE",
+      "city": 80
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "AKÇAKOCA",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "CUMAYERİ",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ÇİLİMLİ",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÖLYAKA",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "GÜMÜŞOVA",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAYNAŞLI",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YIĞILCA",
+      "city": 81
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EFELER",
+      "city": 9
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARESİ",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ALTIEYLÜL",
+      "city": 10
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MERKEZEFENDİ",
+      "city": 20
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ANTAKYA",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DEFNE",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARSUZ",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "PAYAS",
+      "city": 31
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ŞEHZADELER",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "YUNUSEMRE",
+      "city": 45
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "DULKADİROĞLU",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ONİKİŞUBAT",
+      "city": 46
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ARTUKLU",
+      "city": 47
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "MENTEŞE",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SEYDİKEMER",
+      "city": 48
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "SÜLEYMANPAŞA",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KAPAKLI",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ERGENE",
+      "city": 59
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "ORTAHİSAR",
+      "city": 61
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "EYYÜBİYE",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "HALİLİYE",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KARAKÖPRÜ",
+      "city": 63
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "TUŞBA",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "İPEKYOLU",
+      "city": 65
+    }
+  },
+  {
+    "model": "regions.district",
+    "fields": {
+      "title": "KİLİMLİ",
+      "city": 67
+    }
+  }
+]

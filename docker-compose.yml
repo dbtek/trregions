@@ -1,0 +1,31 @@
+version: '3.7'
+
+services:
+  web:
+    image: docker-registry.f27.ns53.co/okulumevde/trregions:0.1.0
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+    environment:
+      DEBUG: 0
+      SECRET_KEY: 7b2982d2-3ddf-4ce8-8e91-cbe9f74db925
+      DJANGO_ALLOWED_HOSTS: localhost 127.0.0.1 [::1]
+      SQL_ENGINE: django.db.backends.postgresql
+      SQL_DATABASE: trregions_prod
+      SQL_USER: trregions
+      SQL_PASSWORD: trregions
+      SQL_HOST: db
+      SQL_PORT: 5432
+      DATABASE: postgres
+  db:
+    image: postgres:12.0-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    environment:
+      POSTGRES_USER: trregions
+      POSTGRES_PASSWORD: trregions
+      POSTGRES_DB: trregions_prod
+
+volumes:
+  postgres_data:
