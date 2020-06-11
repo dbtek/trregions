@@ -4,3 +4,5 @@
 *.pyc
 db.sqlite3
 staticfiles
+.idea
+data.xlsx
