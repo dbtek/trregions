@@ -5,6 +5,7 @@ from regions import views
 router = routers.DefaultRouter()
 router.register(r'cities', views.CityViewSet)
 router.register(r'districts', views.DistrictViewSet)
+router.register(r'neighborhoods', views.NeighborhoodsViewSet)
 
 # Wire up our API using automatic URL routing.
 # Additionally, we include login URLs for the browsable API.

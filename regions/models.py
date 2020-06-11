@@ -25,3 +25,15 @@ class District(models.Model):
         return self.title
 
 
+class Neighborhood(models.Model):
+    title = models.CharField(verbose_name=_('Title'), max_length=100)
+    district = models.ForeignKey(District, verbose_name=_('District'), on_delete=models.CASCADE)
+
+    class Meta:
+        verbose_name = _('Neighborhood')
+        verbose_name_plural = _('Neighborhoods')
+
+    def __str__(self):
+        return self.title
+
+

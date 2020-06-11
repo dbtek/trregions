@@ -1,8 +1,8 @@
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import viewsets
 
-from regions.models import City, District
-from regions.serializers import CitySerializer, DistrictSerializer
+from regions.models import City, District, Neighborhood
+from regions.serializers import CitySerializer, DistrictSerializer, NeighborhoodSerializer
 from rest_framework import filters
 
 
@@ -18,4 +18,12 @@ class DistrictViewSet(viewsets.ModelViewSet):
     serializer_class = DistrictSerializer
     filter_backends = [filters.SearchFilter, DjangoFilterBackend]
     filter_fields = ('city',)
+    search_fields = ('title',)
+
+
+class NeighborhoodsViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Neighborhood.objects.all()
+    serializer_class = NeighborhoodSerializer
+    filter_backends = [filters.SearchFilter, DjangoFilterBackend]
+    filter_fields = ('district', 'district__city')
     search_fields = ('title',)
